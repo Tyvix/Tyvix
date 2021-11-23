@@ -6,7 +6,12 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
 </p>
-<br><br>
+<br>
+
+<p>
+<a style="text-align:right;">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billythegoat356&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
 
 I introduce myself :
 
@@ -17,7 +22,8 @@ I introduce myself :
 - 📫 How to reach me **on Discord**
 
 - ⚡ Fun fact **i'm 14 years old**
-
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tyvixyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyvixyt" height="30" width="40" /></a>
