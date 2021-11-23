@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Tyvix</h1>
 <h3 align="center">I love programming and I want to share my tools with you !</h3>
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
+### <p align="center">Visitors :</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
 </p>
+<br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyvix" alt="tyvix" /></a> </p>
 
