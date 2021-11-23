@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyvix" alt="tyvix" /></a> </p>
+I introduce myself :
 
 - 🌱 I’m currently learning **the python**
 
