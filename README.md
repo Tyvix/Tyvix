@@ -8,9 +8,8 @@
 </p>
 <br>
 
-<p>
-<a style="text-align:right;">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billythegoat356&layout=compact&langs_count=8&theme=react&locale=fr"/>
+<a>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tyvix&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
 
 I introduce myself :
@@ -22,7 +21,6 @@ I introduce myself :
 - 📫 How to reach me **on Discord**
 
 - ⚡ Fun fact **i'm 14 years old**
-</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
