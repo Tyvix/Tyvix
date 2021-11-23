@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tyvix</h1>
 <h3 align="center">I love programming and I want to share my tools with you !</h3>
 
-### <p align="center">Visitors :</p>
+### <p align="center">👀 &nbsp;Visitors :</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/tyvix/count.svg" />
