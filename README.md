@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tyvix</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tyvix</h1>
 <h3 align="center">I love programming and I want to share my tools with you !</h3>
 
 ### <p align="center">👀 &nbsp;Visitors :</p>
